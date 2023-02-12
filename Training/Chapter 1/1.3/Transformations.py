@@ -1,3 +1,6 @@
+### Future me (Sun 12 Feb 00:32 rn) is going to wonder why this code is so bad. The last 40 lines can definitely be cut, so can all those list
+### comprehensions. This one question took me 5-7 hours over 4.5 day period so it was pretty brutal ngl. 29 attempts before I got it right.
+
 """
 ID: Christo97
 LANG: PYTHON3
