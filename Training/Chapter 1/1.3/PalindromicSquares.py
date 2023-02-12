@@ -1,3 +1,5 @@
+### Takes input "base" to determine which base number to check if the square of the that number is a palindromic square.
+
 """
 ID: Christo97
 LANG: PYTHON3
