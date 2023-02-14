@@ -1,3 +1,5 @@
+### This looks inefficient but the question dictated a brute force approach. If you need any explanations of the code, just email me.
+
 """
 ID: Christo97
 LANG: PYTHON3
